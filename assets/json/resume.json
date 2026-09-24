@@ -66,7 +66,7 @@
     {
       "institution": "Shenandoah University",
       "location": "Winchester, VA",
-      "url": "",
+      "url": "https://www.parchment.com/lp/award/3b9a8628-f575-41bc-924c-64299ede48a9",
       "area": "",
       "studyType": "B.S. Computer Science; Cybersecurity (Minor)",
       "startDate": "2021-08-01",
@@ -78,7 +78,7 @@
     {
       "institution": "Shenandoah University",
       "location": "Winchester, VA",
-      "url": "",
+      "url": "https://www.parchment.com/lp/legacy-claim/6cce12ac29db46f0d7e7d073cb6e7713",
       "area": "",
       "studyType": "B.S. Data Science with Applied Mathematics",
       "startDate": "2021-08-01",
@@ -138,29 +138,5 @@
   "languages": [],
   "interests": [],
   "references": [],
-  "projects": [
-    {
-      "name": "Genetic Algorithm Stock Trading",
-      "summary": "A primitive, asexually reproducing genetic algorithm that predicts a single stock's trend for the following trading day.",
-      "highlights": [
-        "Integrated an ETL pipeline (yfinance, pandas, NumPy) connected to a paper-trading account on Alpaca to place daily trades.",
-        "Deployed with Docker at scheduled intervals on a local Raspberry Pi cluster.",
-        "Grew the paper portfolio 10.3% despite the stock's 12.7% drop over 4 weeks."
-      ],
-      "startDate": "2025-11-01",
-      "endDate": "2025-12-01"
-    },
-    {
-      "name": "WellMarked — Web Scraping API / MCP",
-      "url": "https://wellmarked.io/",
-      "summary": "A content-to-data pipeline converting unstructured HTML into clean, structured Markdown for LLM/RAG use.",
-      "highlights": [
-        "Designed a unified API consumed by 5+ clients (Python/TS SDKs, MCP server, n8n, LangChain/LlamaIndex).",
-        "Implemented CI/CD across 7 repositories deploying to Railway, PyPI, and npm.",
-        "Stood up a local dev environment mirroring production (PostgreSQL, Redis)."
-      ],
-      "startDate": "2025-03-01",
-      "endDate": "2025-07-01"
-    }
-  ]
+  "projects": []
 }

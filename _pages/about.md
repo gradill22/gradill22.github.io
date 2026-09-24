@@ -25,16 +25,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Grady Dillon — a software developer with a focus on quantitative and
-data-driven projects. I build tools that turn live data into clear, honest
-answers, with a particular interest in trading, markets, and statistical
-performance analysis.
+I focus on data-heavy projects, whether that's in data science, data engineering, software engineering, AI/ML engineering, or quantitative finance. I look for work that stretches me and makes me go beyond my comfort zone.
 
-<!-- TODO: replace this paragraph with a fuller bio — your background,
-     what you're currently working on, and what you're looking for. -->
-My recent work spans autonomous trading agents and live portfolio analytics —
-including a dashboard that separates skill from luck using CAPM regression on a
-real brokerage account. See the [projects](/projects/) page for details, browse
-my [notes](/blog/), or read my [CV](/cv/).
+<blockquote class="blockquote border-left pl-3 my-4" style="border-left: 4px solid var(--global-theme-color) !important;">
+  <p class="mb-1 font-italic">"I do not think much of a man who is not wiser today than he was yesterday."</p>
+  <footer class="blockquote-footer mt-1">Abraham Lincoln</footer>
+</blockquote>
+
+
+You can find my project portfolio in [projects](/projects/), my thoughts in my [notes](/blog/), and my education and experience in my [CV](/cv/).
 
 Feel free to reach out through any of the links below.
