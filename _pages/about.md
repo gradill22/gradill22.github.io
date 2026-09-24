@@ -33,6 +33,6 @@ I focus on data-heavy projects, whether that's in data science, data engineering
 </blockquote>
 
 
-You can find my project portfolio in [projects](/projects/), my thoughts in my [notes](/blog/), and my education and experience in my [CV](/cv/).
+You can find my project portfolio in [projects](/projects/), my thoughts in my [blog](/blog/), and my education and experience in my [CV](/cv/).
 
 Feel free to reach out through any of the links below.

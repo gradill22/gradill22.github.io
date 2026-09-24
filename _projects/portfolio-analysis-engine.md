@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LLM Trading Agent
-description: Leveraging SKILL.state memory architecture to enable an LLM agent to manage a $1,000,000 paper portfolio using a custom quantitative finance MCP server.
+description: Leveraging SKILL.state memory architecture to enable an LLM agent to manage a \$1,000,000 paper portfolio using a custom quantitative finance MCP server.
 img: assets/img/portfolio-analysis-engine.png
 importance: 1
 category: work
@@ -46,7 +46,7 @@ This program runs 100% locally. Here are the specifications for the host develop
 
 ## Setup
 
-**Overview:** This program leverages several technologies to enable the LLM agent to manage a portfolio. It uses the SKILL.state memory architecture to efficiently manage our LLM agent's memory without sacrificing performance. It connects to Alpaca for all of our stock market needs, including a $1,000,000 paper portfolio and access to historical data. It also has access to our custom quantitative finance MCP server that provides deterministic computations for analyzing stocks, mock portfolios, and our live portfolio to help our LLM agent consider risk, expected returns, and forecasting. To best work with SKILL.state, our program leverages state machines to handle overall workflow, directional decision making, and checkpoint enforcement. 
+**Overview:** This program leverages several technologies to enable the LLM agent to manage a portfolio. It uses the SKILL.state memory architecture to efficiently manage our LLM agent's memory without sacrificing performance. It connects to Alpaca for all of our stock market needs, including a \$1,000,000 paper portfolio and access to historical data. It also has access to our custom quantitative finance MCP server that provides deterministic computations for analyzing stocks, mock portfolios, and our live portfolio to help our LLM agent consider risk, expected returns, and forecasting. To best work with SKILL.state, our program leverages state machines to handle overall workflow, directional decision making, and checkpoint enforcement. 
 
 ### Alpaca
 
@@ -86,7 +86,7 @@ Throughout the program cycle between states, the LLM agent will always have acce
 
 ### The portfolio
 
-The program is connected to an Alpaca paper trading portfolio with a starting amount of $1,000,000. By default, the account uses 4x leverage for a total of $4,000,000 in buying power.
+The program is connected to an Alpaca paper trading portfolio with a starting amount of \$1,000,000. By default, the account uses 4x leverage for a total of \$4,000,000 in buying power.
 
 Although this simulates an enormous amount of capital, it will be more than plenty for a proof-of-concept of an LLM managing a portfolio. This is especially important for exploring how LLM agents handle large portfolios.
 
@@ -270,6 +270,8 @@ Better yet, this model specifically handles JSON input and output, which is perf
 It's too early to tell how well our LLM agent manages its portfolio compared to some common benchmarks like the S&P 500, NASDAQ 100, and Dow Jones. But, we have a working end-to-end system that enables an LLM to manage a portfolio with efficient memory management without sacrificing performance.
 
 If you want to see how the portfolio is doing, you can see a live analytics dashboard [here](https://frontend-production-39dc.up.railway.app/).
+
+---
 
 [^1]: https://arxiv.org/html/2608.26263v2
 [^2]: https://pcpartpicker.com/user/gdillon/saved/#view=6QshmG
