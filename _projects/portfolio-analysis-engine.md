@@ -18,7 +18,7 @@ This program can only place trades during normal trading hours: Monday through F
 ## Tools
 
 * LM Studio
-    * Model used: [qwen/qwen3.5-9b](https://huggingface.co/Qwen/Qwen3.5-9B)
+    * Model used: `qwen/qwen3.5-9b`[^3]
 * Python (3.14.5)
 * Alpaca
 
@@ -273,4 +273,4 @@ If you want to see how the portfolio is doing, you can see a live analytics dash
 
 [^1]: https://arxiv.org/html/2608.26263v2
 [^2]: https://pcpartpicker.com/user/gdillon/saved/#view=6QshmG
-[^3]: https://lmstudio.ai/models/qwen/qwen3.5-9b
+[^3]: https://huggingface.co/Qwen/Qwen3.5-9B
