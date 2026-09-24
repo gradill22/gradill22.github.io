@@ -29,7 +29,7 @@ I focus on data-heavy projects, whether that's in data science, data engineering
 
 <blockquote class="blockquote border-left pl-3 my-4" style="border-left: 4px solid var(--global-theme-color) !important;">
   <p class="mb-1 font-italic"><strong>"I do not think much of a man who is not wiser today than he was yesterday."</strong></p>
-  <footer class="blockquote-footer mt-1 text-right">~ Abraham Lincoln</footer>
+  <footer class="blockquote-footer mt-1">    --- Abraham Lincoln</footer>
 </blockquote>
 
 
