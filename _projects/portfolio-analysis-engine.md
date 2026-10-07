@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-[Open the live analysis dashboard →](https://frontend-production-39dc.up.railway.app/)
+[Open the live analysis dashboard →](https://grady-trading-dashboard.up.railway.app)
 
 ## Abstract
 
